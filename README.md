@@ -1,1 +1,0 @@
-# Church-bible-media-sync-generator-
